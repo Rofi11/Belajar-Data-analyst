@@ -1,0 +1,2 @@
+test = "jumat"
+print (test)

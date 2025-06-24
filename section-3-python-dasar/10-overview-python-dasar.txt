@@ -1,0 +1,9 @@
+Belajar Dasar Python
+    > Menu
+        > Tipe dan data Struktur Data Python
+        > Bulit-in Function Python
+        > berbagai operator Python
+        > Pengulangan (loop)
+        > Peryataan Kondisional (conditional statemenet)
+        > Fungsi
+        > Cara install dan menggunakan module/library

@@ -1,0 +1,44 @@
+Data Analyst
+    > Mentor : Risdan Kristori
+    > Goals
+        1. python dasar
+            > tipe dan structur data python
+            > Built-in fuction
+            > Berbagai operator python
+            > for loop (pengulangan)
+            > conditional statement (peryataan kondisional)
+            > fungsi (function)
+            > Cara install dan menggunakan library python
+        2. numpy : library dasar data analisis
+            > tempat menyimpan data unutk data analisis
+            > Mengenal library numpy
+            > Array
+            > fungsi-fungsi statistik
+            > fungsi universal
+            > Random number
+        3. Pandas : library mengolah dan memanipulasi data
+            > library utama untuk data analisis
+            > Mengenal Pandas
+            > series
+            > Dataframe
+            > Menginput dataset eksternal
+            > Mengolah dan manipulasi data
+            > Pembersihan data
+            > Menggali informasi dari data bersih
+        4. Matplotlib : memanipulasi chart
+        5. seaborn : memanipulasi chart
+        6. plotly : memanipulasi chart
+            > library visualisasi data --> ada 3 (Matplotlib, seaborn, plotly)
+            > Membuat berbagai macam plot yang sesuai dengan data
+            > Mmembuat dashboard
+            > belajar mengenai kaggle dan BPS
+            > menggunakan dataset-dataset bawaan library unutk analisis dan visualisasi data
+
+    Latihan /Project
+    > latihan setiap chapter mengenai materi yang telah dipelajari
+    > Belajar menggunakan tools yang telah dipelajari
+    > Project merupakan analisis data yang telah disediakan
+    > Memancing kreatifitas dan melatih kemampuan analisis data
+    > Dapat digunakan sebagai portofolio di CV
+    > sertifikat di akhir
+    > mission di setiap chapter yang harus di selesaikan untuk melatih daya analisis data

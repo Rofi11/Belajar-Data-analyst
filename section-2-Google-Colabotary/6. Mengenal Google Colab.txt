@@ -1,0 +1,15 @@
+Google Colabolatory
+    > layanan berbasis cloud dari google, memungkinkan pengguna menjalankan kode python secara langsung melalui browser
+    > Fitur Google Colabolatory
+        1. Gratis
+        2. berbasis cloud
+        3. interface mirip jupyter Notebook
+        4. Terintegrasi dengan GDRIVE
+        5. Banyak library populer --> termasuk library utk belajar data analisis
+    > Kegunaan Google Colabolatory
+        1. Pelatihan data analisis dan visualisasi data
+        2. pelatihan machine learning
+        3. Mencoba library baru di python
+        4. Tidak digunakan untuk mengerjakan Project (oke nya dipake latihan), tapi masih bisa di pakai untuk membuat Project juga
+    > syarat menggunakan google Colab
+        > wajib memiliki gmail
