@@ -1,0 +1,25 @@
+Numpy library
+    Apa itu Numpy?
+    > Numpy (Numerical Python) adalah sebuah library open-source di python yang digunakan untuk komputasi ilmiah.
+    > Di dalam Numpy terdapat struktur data yang namanya array(miirp seperti matrix) yang dapat digunakan untuk menyimpan dan memproses data secara efisien.
+    > Numpy juga dilengkapi dengan berbagai fungsi yang dapat digunakan untuk memodifikasi dan menganalisis data
+
+    Sejarah Numpy
+    > 1995 --> Numpy berawal dari proyek bernama Numeric, oleh Jim Hugunin
+    > 2005 --> travis Oliphant menggabungkan fitur Numeric dengan Pustaka lain yang disebut Numarray dan membuat Numpy
+    > 2024 --> Rilis Numpy 2.0
+
+    Numpy Menjadi Pondasi Library lainya
+    > pandas --> memanipulasi dan analisis data
+    > Scipy --> berisi fungsi2 scientific
+    > matplotlib -> untuk visualisasi data
+    > scikit learn --> panckage python untuk machine learning
+
+    Resource:
+    - unutk melihat proyek Numpy
+    > Github
+        * https://github.com/numpy/numpy?tab=readme-ov-file
+    > Web
+        * https://numpy.org/
+    > Docs
+        * https://numpy.org/doc/
