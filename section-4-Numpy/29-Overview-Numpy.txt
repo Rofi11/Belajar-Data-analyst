@@ -1,0 +1,7 @@
+Overview Numpy
+    > mengenal Library Numpy adalah Library dasar untuk beberapa library analisis data dalam python
+    > Belajar membuat Array dari List dan Fungsi
+    > Belajar Indexing dan Slicing Array
+    > belajar Reassignment Array dan operasi matematika Array
+    > Attribute dan Fungsi Statistik Array
+    > Latihan Numpy Array
