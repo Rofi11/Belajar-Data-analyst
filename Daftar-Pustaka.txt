@@ -3,3 +3,8 @@ Daftar Pustaka
         * Membahas cara penggunaan Google Collab
     > Section 3
         * Membahas Python Dasar
+    > Section 4 : Numpy
+        * Membahas Library numpy sebagai library dasar Data Analyst
+        * Membuat Array dan List
+        * Cara memanipulasi Array dan operasi matematika dalam Array
+    > Section 5 : Numpy 2 (Fungsio universal Numpy dan Module Random)
