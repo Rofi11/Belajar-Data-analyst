@@ -1,0 +1,9 @@
+Overview Materi Mission 2
+    > Fungsi Universal dan Module Random
+        > Stage 1 : Fungsi Universal Numpy
+            * latihan Fungsi Universal
+        > Stage 2 : Distribusi Probabilitas
+        > Stage 3 : Membuat Array Random
+        > Stage 4 : Membuat Array Random sesuai Distribusi
+        > Stage 5 : Random Seed (membuat angka random tetapi sifat nya tidak random)
+            * latihan Module Random
