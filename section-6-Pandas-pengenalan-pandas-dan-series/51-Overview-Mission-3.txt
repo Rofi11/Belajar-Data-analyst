@@ -1,0 +1,12 @@
+Overview Library Pandas 
+    > pengenalan Pandas dan series
+    - Stage 1
+        * mengenal Library Pandas (Library Utama untuk analisis data)
+    - Stage 2
+        * Membuat series
+    - Stage 3
+        * Indexing dan slicing pada series
+    - Stage 4
+        * Operasi dan Fungsi Pada series
+    - Stage 5
+        * Latihan tentang series
