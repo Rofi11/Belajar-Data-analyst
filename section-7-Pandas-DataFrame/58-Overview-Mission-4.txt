@@ -1,0 +1,18 @@
+Overview Mission 4 : Pandas:DataFrame
+    - Stage 1
+        * Mmebuat data frame dng berbagai cara
+    - Stage 2
+        * Mengakses Kolom dan Baris DataFrame
+    - Stage 3
+        * Indexing dan slicing pada DataFrame (miirp dengan yang ada di series)
+    - Stage 4
+        * mengubah Nama Kolom, baris dan Isi DataFrame
+    - Stage 5
+        * Menambahkan Baris dan kolom Pada DataFrame
+    - Stage 6
+        * Menghapus Baris dan kolom Pada DataFrame
+    - Stage 7
+        * Menggabungkan DataFrame dengan Method dan Fungsi tertentu
+    - Boss Stage
+        * latihan Pandas DataFrame
+    
