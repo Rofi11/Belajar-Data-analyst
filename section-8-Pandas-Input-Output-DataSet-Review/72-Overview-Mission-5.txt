@@ -1,0 +1,17 @@
+Overview Mission 5 : Pandas Input Output dan DataSet Review
+    - Stage 1
+        * Apa itu DataSet
+    - Stage 2
+        * Menghubungkan google colab dan google drive
+    - Stage 3
+        * Head, Tail dan Sample
+    - Stage 4
+        * Pandas Options Display -> pengaturan2 utk menampilkan DataFarame
+    - Stage 5
+        * method Info dan Macam DTYPE
+    - Stage 6
+        * method describe dan statistik
+    - Stage 7
+        * DataFrame API Reference
+
+    
